@@ -25,8 +25,6 @@
             'internal_reference_in_pos/static/src/xml/**/*',
         ],
     },
-    'price': 0,
-    'currency': 'USD',
     'license': 'LGPL-3',
     'images': ['static/description/Banner.png'],
 }
